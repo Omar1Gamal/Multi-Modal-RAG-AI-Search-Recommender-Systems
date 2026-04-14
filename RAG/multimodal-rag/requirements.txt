@@ -1,0 +1,11 @@
+chromadb
+Pillow
+matplotlib
+datasets
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+streamlit
+ollama
